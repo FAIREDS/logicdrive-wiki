@@ -23,9 +23,9 @@
         }
       ]
     },
-    "groups": [
+    "dropdowns": [
       {
-        "group": "Toyota",
+        "dropdown": "Toyota",
         "pages": [
           "tseny",
           {
