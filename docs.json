@@ -50,12 +50,13 @@
         "groups": [
           {
             "group": "Uni-z 26 рест",
-            "pages": []
+            "pages": [
+              "q"
+            ]
           },
           {
             "group": "uni-v",
             "pages": [
-              "prilozheniya",
               "rusifikatsiya-2"
             ]
           },
@@ -85,11 +86,15 @@
           },
           {
             "group": "Q05 ultra laser",
-            "pages": []
+            "pages": [
+              "q-2"
+            ]
           },
           {
             "group": "Q07",
-            "pages": []
+            "pages": [
+              "prilozheniya"
+            ]
           }
         ]
       }
