@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "luma",
   "name": "LogicDrive Wiki",
   "colors": {
     "primary": "#16A34A",
@@ -128,38 +128,24 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Сайт",
+      "href": "https://logic-drive.ru"
     }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://logic-drive.ru"
     }
   },
   "icons": {
-    "library": "fontawesome"
+    "library": "lucide"
+  },
+  "styling": {
+    "codeblocks": "system"
+  },
+  "interaction": {
+    "drilldown": false
   }
 }
