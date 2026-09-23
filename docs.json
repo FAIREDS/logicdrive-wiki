@@ -47,13 +47,49 @@
       {
         "dropdown": "Changan",
         "icon": "car",
-        "tabs": [
+        "groups": [
           {
-            "tab": "uni-v",
+            "group": "Uni-z 26 рест",
+            "pages": []
+          },
+          {
+            "group": "uni-v",
             "pages": [
               "prilozheniya",
               "rusifikatsiya-2"
             ]
+          },
+          {
+            "group": "Uni-s",
+            "pages": []
+          },
+          {
+            "group": "Cs75+ тест",
+            "pages": []
+          },
+          {
+            "group": "cs75+ дорест",
+            "pages": []
+          },
+          {
+            "group": "Cs75 pro",
+            "pages": []
+          },
+          {
+            "group": "Cs 55",
+            "pages": []
+          },
+          {
+            "group": "Q05",
+            "pages": []
+          },
+          {
+            "group": "Q05 ultra laser",
+            "pages": []
+          },
+          {
+            "group": "Q07",
+            "pages": []
           }
         ]
       }
