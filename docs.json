@@ -9,25 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      {
-        "group": "Toyota",
-        "pages": [
-          "index",
-          {
-            "group": "Highlander",
-            "pages": [
-              "yghjbjhjhbjh"
-            ]
-          },
-          {
-            "group": "Camry",
-            "pages": []
-          }
-        ],
-        "icon": "car"
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -41,7 +22,32 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "dropdowns": [
+      {
+        "dropdown": "Untitled Dropdown",
+        "pages": [
+          {
+            "group": "Toyota",
+            "icon": "car",
+            "pages": [
+              {
+                "group": "Highlander",
+                "pages": [
+                  "yghjbjhjhbjh"
+                ]
+              },
+              {
+                "group": "Camry",
+                "pages": []
+              }
+            ]
+          },
+          "untitled-page",
+          "untitled-page-2"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
