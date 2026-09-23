@@ -27,7 +27,6 @@
       {
         "dropdown": "Toyota",
         "pages": [
-          "tseny",
           {
             "group": "Highlander",
             "pages": [
@@ -40,6 +39,18 @@
             "pages": [
               "proshivka-2",
               "rusifikatsiya"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Changan",
+        "groups": [
+          {
+            "group": "uni-v",
+            "pages": [
+              "prilozheniya",
+              "rusifikatsiya-2"
             ]
           }
         ]
