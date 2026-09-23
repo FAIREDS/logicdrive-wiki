@@ -62,27 +62,39 @@
           },
           {
             "group": "Uni-s",
-            "pages": []
+            "pages": [
+              "q-3"
+            ]
           },
           {
             "group": "Cs75+ тест",
-            "pages": []
+            "pages": [
+              "q-4"
+            ]
           },
           {
             "group": "cs75+ дорест",
-            "pages": []
+            "pages": [
+              "q-5"
+            ]
           },
           {
             "group": "Cs75 pro",
-            "pages": []
+            "pages": [
+              "q-6"
+            ]
           },
           {
             "group": "Cs 55",
-            "pages": []
+            "pages": [
+              "q-7"
+            ]
           },
           {
             "group": "Q05",
-            "pages": []
+            "pages": [
+              "q-8"
+            ]
           },
           {
             "group": "Q05 ultra laser",
