@@ -41,7 +41,8 @@
               "rusifikatsiya"
             ]
           }
-        ]
+        ],
+        "icon": "car"
       },
       {
         "dropdown": "Changan",
@@ -53,7 +54,8 @@
               "rusifikatsiya-2"
             ]
           }
-        ]
+        ],
+        "icon": "car"
       }
     ]
   },
