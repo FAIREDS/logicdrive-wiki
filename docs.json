@@ -23,28 +23,31 @@
         }
       ]
     },
-    "dropdowns": [
+    "groups": [
       {
-        "dropdown": "Untitled Dropdown",
+        "group": "Untitled Product",
         "pages": [
+          "untitled-page"
+        ]
+      },
+      {
+        "group": "Toyota",
+        "pages": [
+          "tseny",
           {
-            "group": "Toyota",
-            "icon": "car",
+            "group": "Highlander",
             "pages": [
-              {
-                "group": "Highlander",
-                "pages": [
-                  "yghjbjhjhbjh"
-                ]
-              },
-              {
-                "group": "Camry",
-                "pages": []
-              }
+              "untitled-page-2",
+              "proshivka"
             ]
           },
-          "untitled-page",
-          "untitled-page-2"
+          {
+            "group": "Camry",
+            "pages": [
+              "proshivka-2",
+              "rusifikatsiya"
+            ]
+          }
         ]
       }
     ]
