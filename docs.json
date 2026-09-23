@@ -46,16 +46,16 @@
       },
       {
         "dropdown": "Changan",
-        "groups": [
+        "icon": "car",
+        "tabs": [
           {
-            "group": "uni-v",
+            "tab": "uni-v",
             "pages": [
               "prilozheniya",
               "rusifikatsiya-2"
             ]
           }
-        ],
-        "icon": "car"
+        ]
       }
     ]
   },
