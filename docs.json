@@ -109,6 +109,17 @@
             ]
           }
         ]
+      },
+      {
+        "dropdown": "Geely",
+        "groups": [
+          {
+            "group": "Jiali",
+            "pages": [
+              "rusifikatsiya-3"
+            ]
+          }
+        ]
       }
     ]
   },
